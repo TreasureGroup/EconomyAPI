@@ -1,0 +1,7 @@
+name: EconomyAPI
+version: 1.0.0
+main: economyapi\EconomyAPI
+authors:
+  - Slayer
+  - DevCommunity
+api: [4.0.0]
